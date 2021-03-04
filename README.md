@@ -9,7 +9,7 @@
 
 I am an ordinary person from Indonesia, I just like the programming language php, Java Script, html, css.
 
-# Stats 
+*Stats*
 <br>
 ![RizkiTri Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkitri&layout=compact&theme=highcontrast)
 ![RizkiTri Stats](https://github-readme-stats.vercel.app/api?username=rizkitri&show_icons=true&theme=highcontrast)
