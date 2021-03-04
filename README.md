@@ -7,7 +7,7 @@
 
 ---
 
-
+I am an ordinary person from Indonesia, I just like the programming language php, Java Script, html, css.
 
 <!--
 **RizkiTri/rizkitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
