@@ -1,6 +1,7 @@
 <h3 align="center">👋 Hello I am RizkiTri</h3>
 <p align="center">
   I am a human from East Java Indonesia
+  <br>
   <a href='https://instagram.com/rizkitri.anang' align='canter'>Instagram</a>
 </p>
 
