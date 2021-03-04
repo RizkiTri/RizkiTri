@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey! I'm RizkiTri</h3>
+<h3 align="center">👋 Halo My Name is RizkiTri</h3>
 <p align="center">
   I am a human from East Java Indonesia
 </p>
