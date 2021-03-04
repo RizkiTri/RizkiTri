@@ -1,7 +1,4 @@
-<p align='center'>
-    <h1> Hi Guys </h1>
-    I am a human from East Java Indonesia
-</p>
+
 ---
 
 <!--
