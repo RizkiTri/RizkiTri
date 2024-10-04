@@ -1,43 +1,24 @@
-<img align="right" src="[def2]">
+# 💫 About Me:
+🔭 I’m currently working on Fania Corra MArley<br>🤝 I’m looking for help with OOP PHP<br>🌱 I’m currently learning JavaScript, NodeJs<br>💬 Ask me about PHP<br>⚡ Fun fact I'm not that smart
 
-<h1 align="center">
-    <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Sequtiyhusky783" alt="Typing SVG" />
-</h1>
 
-<h3 align="center">A passionate software developer from Indonesia</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizkitri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Sequtiyhusky783) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sequtiyhusky783) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sequtiyhusky783) 
 
-<br/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RizkiTri&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RizkiTri&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiTri&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
- 
- 🔭 I’m currently working on **Fania Corra Marley**
- 
- 🌱 I’m currently learning **Docker, Java**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-💬 Ask me about **Node.js, PHP... or anything [here](https://github.com/rizkitri/rizkitri/issues)**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RizkiTri&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-⚡ Fun fact **I'm not that smart**
+---
+[![](https://visitcount.itsvg.in/api?id=RizkiTri&icon=0&color=0)](https://visitcount.itsvg.in)
 
- </div>
-
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RizkiTri&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rizkitri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rizkitri&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<!--
-**RizkiTri/rizkitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-[def]: https://github-readme-stats.vercel.app/api/top-langs?username=rizkitri&layout=compact&theme=highcontrast
-****
-
-[def2]: ttps://visitor-badge.laobi.icu/badge?page_id=RizkiTri.rizkitri&left_color=red&right_color=green&left_text=HelloVisitor
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
