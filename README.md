@@ -22,4 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=RizkiTri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[link](https://docs.google.com/document/d/1mqC7FqISoFIQ_jq-l3AgN-aNOfs9IvjP/edit?usp=drivesdk&ouid=100402041198512818306&rtpof=true&sd=true)
+[link](https://docs.google.com/document/d/1ukHeDOkEK12VaGkai7BB_nJqAxNtblhj/edit?usp=sharing&ouid=100402041198512818306&rtpof=true&sd=true)
